@@ -27,7 +27,7 @@ V kolikor želite, lahko program dopolnite tako, da bodo števila izpisana po ob
     3         8
       4     7
         5 6
-        6 6
+        5 6
       4     7
     3         8
   2             9
